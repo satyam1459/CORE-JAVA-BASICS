@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=encoding
+comment0.text=\r\n\ Create\ a\ word\ encoding\ program\ which\ moves\ each\ letter\ by\ 2.\ e.g\ A\ becomes\ C,\r\n\ B\ becomes\ D,Y\ becomes\ A\ and\ so\ on\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

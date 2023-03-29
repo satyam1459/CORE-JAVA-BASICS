@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=specialWords
+comment0.text=A\ special\ word\ is\ that\ which\ starts\ and\ ends\ with\ the\ same\ character\r\n\ eg.-->\ Anna,Bob\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

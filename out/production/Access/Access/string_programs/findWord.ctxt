@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=findWord
+comment0.text=Find\ a\ word\ exist\ in\ a\ String.\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
