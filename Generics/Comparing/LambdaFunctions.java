@@ -34,6 +34,6 @@ public class LambdaFunctions {
 }
 
 interface Operation {
-    int  operation(int a, int b)
+    int  operation(int a, int b);
 
 }

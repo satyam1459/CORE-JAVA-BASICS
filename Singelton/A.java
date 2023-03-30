@@ -1,4 +1,4 @@
-package Access;
+package Singelton.Singelton;
 
 public class A {
     protected int num;

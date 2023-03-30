@@ -1,6 +1,4 @@
-package Access.Singelt;
-
-import Access.A;
+package Singelton.Singelton;
 
 public class SubClass extends A {
 

@@ -1,5 +1,6 @@
-package Access;
+package Singelton.Singelton;
 
+import Singelton.Singelton.A;
 public class Subclass extends A {
 
     public Subclass(int num, String name) {
